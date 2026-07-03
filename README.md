@@ -1,7 +1,7 @@
 <!--
   Connector repo for directory listings (mcp.so, Glama, PulseMCP, Smithery, awesome-mcp-servers).
   This repo is DOCS ONLY — it does not contain the server source. The MCP server ships inside the
-  1AIVault desktop app. If your GitHub org/name differs, replace `stoicsoft/1aivault-mcp` throughout.
+  1AIVault desktop app. If your GitHub org/name differs, replace `stoicsoft/1AIVault-MCP-Server` throughout.
 -->
 
 <p align="center">

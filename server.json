@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "com.stoicsoft/1aivault",
+  "title": "1AIVault",
+  "description": "Portable AI memory vault — save memories, decisions, preferences, and reusable skills to a local SQLite database and share them across Claude Desktop, Claude Code, Cursor, Cline, and more. Local-first, no cloud.",
+  "version": "1.3.2",
+  "websiteUrl": "https://1aivault.com",
+  "repository": {
+    "url": "https://github.com/stoicsoft/1aivault-mcp",
+    "source": "github"
+  }
+}

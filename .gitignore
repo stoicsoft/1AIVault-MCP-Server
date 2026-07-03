@@ -1,0 +1,7 @@
+.DS_Store
+node_modules/
+*.log
+
+# Internal go-to-market notes — keep local, out of the public listing repo
+submissions/
+SUBMISSION-CHECKLIST.md
